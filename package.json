@@ -1,0 +1,18 @@
+{
+  "name": "grocery-list-notifier",
+  "version": "1.0.0",
+  "description": "A simple grocery list webtask that also notifies your spouse of updates",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grocerylist"
+  ],
+  "author": "Kion Stephen",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}
